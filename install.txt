@@ -1,0 +1,14 @@
+python -m venv .\Django-env
+pip install Django
+pip install crispy-bootstrap5
+pip install djangorestframework
+pip install django-cors-headers
+python -m pip install Pillow
+
+python manage.py runserver
+python manage.py createsuperuser
+
+Van-Gogh
+Starry-Night
+05/01/2025
+Van-Gogh-Starry-Night.jpg

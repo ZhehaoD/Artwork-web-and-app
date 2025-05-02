@@ -1,0 +1,4 @@
+C:\Users\31916\Desktop\project\barcode_app-main\barcode_app\bin\Release\net9.0-android\publish\com.companyname.barcode_app-Signed.aab
+C:\Users\31916\Desktop\project\barcode_app-main\barcode_app\bin\Release\net9.0-android\publish\com.companyname.barcode_app.aab
+C:\Users\31916\Desktop\project\barcode_app-main\barcode_app\bin\Release\net9.0-android\publish\com.companyname.barcode_app-Signed.apk
+C:\Users\31916\Desktop\project\barcode_app-main\barcode_app\bin\Release\net9.0-android\publish\_Microsoft.Android.Resource.Designer.dll
